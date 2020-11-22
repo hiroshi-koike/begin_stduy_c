@@ -8,6 +8,6 @@ int main()
     char moji[20];
 
     memset(&moji[0],0x00,sizeof(moji));
-    strcpy(&moji[0], "ソフト");
+    strcpy(&moji[0], "i'mProgrammer");
     printf("%s\n", moji);
 }
